@@ -6,6 +6,8 @@
 
 ## 1. 下載 video 檔案
 
+安裝 pip insatll pip install pytubefix
+
 > python download_youtube.py https://www.youtube.com/watch?v=bjNYEc908oQ
 
 下載影片，這會建立 building_reliable_agentic_systems_eno_reyes 目錄並將 video.mp4 (這沒有聲音) 和 audio.mp4 (這只有聲音) 放到目錄內
